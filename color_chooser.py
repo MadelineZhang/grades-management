@@ -50,7 +50,7 @@ class ColorPicker:
 
 def main_color_chooser(n):
     color_chooser = ColorPicker(n-1)
-    print(color_chooser.pick_colors())
+    # print(color_chooser.pick_colors())
     return color_chooser.pick_colors()
 
 
