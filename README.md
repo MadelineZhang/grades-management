@@ -1,2 +1,2 @@
-# grades-management
-Personal grades management for university
+# university-random
+random stuff for university 
