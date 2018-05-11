@@ -54,4 +54,4 @@ def main_color_chooser(n):
     return color_chooser.pick_colors()
 
 
-main_color_chooser(3)
+# main_color_chooser(3)
